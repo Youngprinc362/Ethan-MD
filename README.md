@@ -9,8 +9,8 @@
 <hr>
 
 <p align="center">
-<a href="https://github.com/HyHamza">
-    <img src="https://raw.githubusercontent.com/HyHamza/HyHamza/main/Images/XByte-logo.png"  width="700px">
+<a href="https://github.com/Youngprinc362">
+    <img src="https://i.imgur.com/lFvoEyj.jpeg"  width="700px">
 </a>
 <hr>
 
@@ -23,12 +23,12 @@
 
 ## WHATSAPP CHANNEL
 
-[![TalkDrove](https://telegra.ph/file/99460844d012cad1b7ee4.jpg)](https://whatsapp.com/channel/0029VaNRcHSJP2199iMQ4W0l)
+[![TalkDrove](https://telegra.ph/file/99460844d012cad1b7ee4.jpg)](https://whatsapp.com/channel/0029VaoJs5d7oQhaVY5ShQ15)
  
 
 </details>
 
-***Click [FORK](https://github.com/HyHamza/X-BYTE/fork)***
+***Click [FORK](https://github.com/Youngprinc362/Ethan-MD/fork)***
 
 
 <hr>
@@ -40,12 +40,12 @@
 
 
 
-##  Pairing link:1
-<a href="https://byte-session.vercel.app/"><img src="https://img.shields.io/badge/LOGIN%20WITH-PAIR%20CODE-red" alt="LOGIN WITH PAIR CODE" width="250"></a>
+##  Pair link:1
+<a href="https://byte-session.vercel.app/"><img src="https://img.shields.io/badge/SCAN-PAIR%20CODE-rainbow" alt="SCAN WITH PAIR CODE" width="250"></a>
 
-## Pairing link:2 (if above isn't working)
+## Pair link:2 (if above isn't working)
 
-<a href="https://byte-session-2.vercel.app/"><img src="https://img.shields.io/badge/LOGIN%20WITH-PAIR%20CODE2-red" alt="LOGIN WITH PAIR CODE" width="250"></a>
+<a href="https://byte-session-2.vercel.app/"><img src="https://img.shields.io/badge/SCAN-PAIR%20CODE2-rainbow" alt="SCAN PAIR CODE" width="250"></a>
 
 <hr>
 
@@ -57,7 +57,7 @@
 
 ## HEROKU
 ***Click [Create account](https://signup.heroku.com/login)***
-***Click [Deploy](https://dashboard.heroku.com/new?template=https://github.com/HyHamza/X-BYTE)***
+***Click [Deploy](https://dashboard.heroku.com/new?template=https://github.com/Youngprinc362/Ethan-MD)***
 
 <hr>
 
@@ -67,7 +67,7 @@
 
 </div>
 
-## THANKS TO
+## By
 
-• Allah
+• Young Prince
 
