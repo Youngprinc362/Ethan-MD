@@ -14,6 +14,7 @@
     <img src="https://i.imgur.com/lFvoEyj.jpeg"  width="700px">
 </a>
 <hr>
+<p align="center"><img src="https://moe-counter.glitch.me/get/@Ethan-MD?theme=gelbooru" alt="Ethan_MD_Visits_Counter" /></p>
 
 <hr>
 
