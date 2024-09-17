@@ -71,7 +71,23 @@
 
 </div>
 
-## By
+### `Repository Details:`
 
-• Young Prince
+<details>
+  <summary>Click here to view</summary>
+
+<div align="center">
+    
+| Owner 👤             | Repo 🤖              | Forks 🍽️             | Stars 🌟            | Language 🗣️        | Licence 🪪              
+|----------------------|----------------------|----------------------|---------------------|---------------------|---------------------|
+| [![Owner](https://img.shields.io/badge/Author-YoungPrince-red.svg)](https://github.com/Youngprinc362/) | [![Repository](https://img.shields.io/badge/Repo-Ethan_MD-red.svg)](https://github.com/Youngprinc362/Ethan-MD) | [![GitHub forks](https://badgen.net/github/forks/Youngprinc362/Ethan-MD/)](https://GitHub.com/Youngprinc362/Ethan-MD/network/) | [![GitHub stars](https://badgen.net/github/stars/Youngprinc362/Ethan-MD)](https://GitHub.com/Youngprinc362/Ethan-MD/stargazers/) | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) | [![GitHub license](https://img.shields.io/github/license/Youngprinc362/Ethan-md.svg)](https://github.com/Youngprinc362/Ethan-md/blob/master/LICENSE) 
+
+| Version 💻              | Last Commit 💫              | Maintained 🤌🏻             |
+|---------------------|---------------------|---------------------|
+| [![GitHub release](https://img.shields.io/github/release/Youngprinc362/Ethan-Md.svg)](https://GitHub.com/Youngprinc362/Ethan-MD/releases/) | [![GitHub latest commit](https://badgen.net/github/last-commit/Youngprinc362/Ethan-md)](https://GitHub.com/Youngprinc362/Ethan-md/commit/) | [![Maintenance](https://img.shields.io/badge/maintained%3F-yes-green.svg)](https://GitHub.com/Youngprinc362/Ethan-MD/graphs/commit-activity) |
+
+[![Contributors over time](https://contributor-graph-api.apiseven.com/contributors-svg?chart=contributorOverTime&repo=Youngprinc362/Ethan-MD)](https://www.apiseven.com/en/contributor-graph?chart=contributorOverTime&repo=Youngprinc362/Ethan-MD)
+
+</div>
+</details>
 
