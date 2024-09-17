@@ -1,8 +1,8 @@
 {
-  "name": "X-BYTE",
-  "description": "X-BYTE buttoned version of Byte..",
-  "logo": "https://raw.githubusercontent.com/HyHamza/HyHamza/main/Images/XByte-logo.png",
-  "keywords": ["xbyte", "bot", "whatsapp bot", "multi device", "X-BYTE"],
+  "name": "ETHAN",
+  "description": "Ethan, first version of Ethan series..",
+  "logo": "https://i.imgur.com/lFvoEyj.jpeg",
+  "keywords": ["ethan", "bot", "whatsapp bot", "multi device", "ETHAN"],
   "success_url": "/",
 
   "env": {
@@ -12,7 +12,7 @@
             "value": "put session id here"
         },
     "COMMAND_TYPE": {
-            "description": "Put correct spelling button or nonbutton here to change mode",
+            "description": "Put correct spelling button or nonbutton here to change MODE. Recommend buttons.",
             "required": true,
             "value": "button"
         },
@@ -34,7 +34,7 @@
     "OWNER_NUMBER": {
             "description": "Put Your number here",
             "required": true,
-            "value": "923458017380"
+            "value": "263780858655"
 },
     "ANTI_DELETE": {
             "description": "Anti delete to true or false",
