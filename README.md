@@ -1,5 +1,6 @@
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<h1 align="center">ETHAN BOT  MULTI-DEVICE</h1>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <div align="center">
 </p
